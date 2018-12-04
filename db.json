@@ -1,4 +1,4 @@
-{"
+[{"
 comments ":"
 maria(maria @test.com) created hierarchy value 'Wohnung 15'
 under hierarchy Raum in project Hauke ","
@@ -118,4 +118,4 @@ maria(maria @test.com) created hierarchy value 'KG'
 under hierarchy Etage in project Hauke ","
 logDate ":"
 2018 - 11 - 28 - 18: 10: 50 ","
-logDateInMillis ":1543421450486}
+logDateInMillis ":1543421450486}]
